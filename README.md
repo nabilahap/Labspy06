@@ -26,7 +26,7 @@ def d(s):
 ```
 
 ### Penjelasan
-- Untuk memperluas daftar fungsi matematika gunakan 'import math'
+- Untuk memperluas daftar fungsi matematika gunakan `import math`
 
 - Fungsi lambda yang menggunakan variabel a-d
 ```py
